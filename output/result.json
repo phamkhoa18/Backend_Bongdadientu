@@ -1,0 +1,2139 @@
+[
+  {
+    "sheetName": "Sheet2",
+    "data": [
+      {
+        "1": "Xếp hạng",
+        "2": "Nickname eFootball",
+        "3": "Tên Facebook",
+        "4": "Team eFootball",
+        "5": "Điểm Ranking"
+      },
+      {
+        "1": 1,
+        "2": "MR PES - NHATTAN",
+        "3": "Lê Hoàng Nhật Tân",
+        "4": "MR PES",
+        "5": 100,
+        "6": {
+          "hyperlink": "https://challonge.com/vi/gq641hog/report_scores"
+        }
+      },
+      {
+        "1": 2,
+        "2": "MR PES _ NHATTIEN",
+        "3": "Lê Hoàng Nhật Tiến",
+        "4": "MR PES",
+        "5": 90
+      },
+      {
+        "1": 3,
+        "2": "Mr PesVN.Nhat Minamino",
+        "3": "Anh Nhat",
+        "4": "Mr Pes Viet Nam",
+        "5": 80
+      },
+      {
+        "1": 4,
+        "2": "HN_Cuong_Phung",
+        "3": "Cuong Phung",
+        "4": "Hà Nội Luxury team",
+        "5": 70
+      },
+      {
+        "1": 5,
+        "2": "Trịnh Sang",
+        "3": "Trịnh Sang",
+        "4": "Không ",
+        "5": 70
+      },
+      {
+        "1": 6,
+        "2": "VNPL+_Beemusaa",
+        "3": "Nguyễn Hoàng Tuấn",
+        "4": "Vietnam Premier League+",
+        "5": 70
+      },
+      {
+        "1": 7,
+        "2": "VNPL+.Việt Anh",
+        "3": "Viet Anh",
+        "4": "Vietnam Premier League+ ",
+        "5": 70
+      },
+      {
+        "1": 8,
+        "2": "UBS NHT",
+        "3": "Nguyễn Hoàng Thái",
+        "4": "UBS - Unbeaten  ",
+        "5": 70
+      },
+      {
+        "1": 9,
+        "2": "PFC_DoanTan",
+        "3": "Doan Tấn",
+        "4": "PHOENIX FC",
+        "5": 70
+      },
+      {
+        "1": 10,
+        "2": "STAR. DAO AN. 16 Homies",
+        "3": "An Đức Đào",
+        "4": "STAR TEAM",
+        "5": 70
+      },
+      {
+        "1": 11,
+        "2": "VIEX.Công An Xóm",
+        "3": "Phạm Đức Trung",
+        "4": "VIEXPERT",
+        "5": 70
+      },
+      {
+        "1": 12,
+        "2": "PFC.Thanh Tùng",
+        "3": "Thanh Tùng",
+        "4": "Phoenix Fc",
+        "5": 70
+      },
+      {
+        "1": 13,
+        "2": "BG-Hugo",
+        "3": "Hoàng Hugo",
+        "4": "Team Bắc Giang",
+        "5": 70
+      },
+      {
+        "1": 14,
+        "2": "VinhLe",
+        "3": "Vinh Le",
+        "4": null,
+        "5": 70
+      },
+      {
+        "1": 15,
+        "2": "Isagi Yoichi",
+        "3": "Tiến Hùng",
+        "4": "Team Bắc Giang",
+        "5": 70
+      },
+      {
+        "1": 16,
+        "2": "VIEX.Thanhmaxx",
+        "3": "thành maxx",
+        "4": "VIEXPERT",
+        "5": 70
+      },
+      {
+        "1": 17,
+        "2": "BP-47daklak",
+        "3": "Vb trung",
+        "4": "Black Panthers",
+        "5": 70
+      },
+      {
+        "1": 18,
+        "2": "VIEX_2T hihi",
+        "3": "Tiến Thành",
+        "4": "Viexpert",
+        "5": 70
+      },
+      {
+        "1": 19,
+        "2": "TIẾN SAY",
+        "3": "TIẾN SAY",
+        "4": null,
+        "5": 70
+      },
+      {
+        "1": 20,
+        "2": "VNPL+ Nam Rua",
+        "3": "Nhật Nam",
+        "4": "VNPL+",
+        "5": 70
+      },
+      {
+        "1": 21,
+        "2": "IOS.Kutj Nguyễn",
+        "3": "Nguyễn luân",
+        "4": "IOS team",
+        "5": 70
+      },
+      {
+        "1": 22,
+        "2": "jcr_chien",
+        "3": "Minh Chiến ",
+        "4": "Jacker Fc",
+        "5": 70
+      },
+      {
+        "1": 23,
+        "2": "Xin 1 Win",
+        "3": "Huỳnh Khắc Duy",
+        "4": null,
+        "5": 70
+      },
+      {
+        "1": 24,
+        "2": "MR PES - TUẤNHT",
+        "3": "TuấnHT",
+        "4": "MR PES",
+        "5": 70
+      },
+      {
+        "1": 25,
+        "2": "Elnino",
+        "3": "Quảng Cáo Nguyễn Tín",
+        "4": "không",
+        "5": 70
+      },
+      {
+        "1": 26,
+        "2": "Daubap2k22",
+        "3": "Dũng Phạm",
+        "4": "Không có",
+        "5": 70
+      },
+      {
+        "1": 27,
+        "2": "Viex_DucNl",
+        "3": "Đức Nghi Lộc",
+        "4": "VIEXPERT",
+        "5": 70
+      },
+      {
+        "1": 28,
+        "2": "TV-comrades",
+        "3": "Trương Doanh Thiệp",
+        "4": null,
+        "5": 70
+      },
+      {
+        "1": 29,
+        "2": "VIEX.HUYMINH24",
+        "3": "Minh Huy",
+        "4": "VIEXPERT",
+        "5": 70
+      },
+      {
+        "1": 30
+      },
+      {
+        "1": 31
+      },
+      {
+        "1": 32
+      },
+      {
+        "1": 33
+      },
+      {
+        "1": 34
+      },
+      {
+        "1": 35,
+        "2": null,
+        "3": null,
+        "4": null,
+        "5": null
+      },
+      {
+        "1": 36
+      },
+      {
+        "1": 37
+      },
+      {
+        "1": 38,
+        "2": null
+      },
+      {
+        "1": 39,
+        "2": null,
+        "3": null,
+        "4": null,
+        "5": null
+      },
+      {
+        "1": 40
+      },
+      {
+        "1": 41
+      },
+      {
+        "1": 42
+      },
+      {
+        "1": 43
+      },
+      {
+        "1": 44
+      },
+      {
+        "1": 45
+      },
+      {
+        "1": 46,
+        "2": null,
+        "3": null,
+        "4": null,
+        "5": null
+      },
+      {
+        "1": 47
+      },
+      {
+        "1": 48,
+        "2": null,
+        "3": null,
+        "4": null,
+        "5": null
+      },
+      {
+        "1": 49
+      },
+      {
+        "1": 50
+      },
+      {
+        "1": 51
+      },
+      {
+        "1": 52
+      },
+      {
+        "1": 53,
+        "2": null
+      },
+      {
+        "1": 54
+      },
+      {
+        "1": 55
+      },
+      {
+        "1": 56
+      },
+      {
+        "1": 57
+      },
+      {
+        "1": 58
+      },
+      {
+        "1": 59
+      },
+      {
+        "1": 60
+      },
+      {
+        "1": 61,
+        "2": null,
+        "3": null,
+        "4": null,
+        "5": null
+      },
+      {
+        "1": 62,
+        "2": null,
+        "3": null,
+        "4": null,
+        "5": null
+      },
+      {
+        "1": 63,
+        "2": null,
+        "3": null,
+        "4": null,
+        "5": null
+      },
+      {
+        "1": 64,
+        "2": null
+      },
+      {
+        "1": 65
+      },
+      {
+        "1": 66
+      },
+      {
+        "1": 67
+      },
+      {
+        "1": 68,
+        "2": null
+      },
+      {
+        "1": 69
+      },
+      {
+        "1": 70
+      },
+      {
+        "1": 71
+      },
+      {
+        "1": 72
+      },
+      {
+        "1": 73
+      },
+      {
+        "1": 74
+      },
+      {
+        "1": 75
+      },
+      {
+        "1": 76
+      },
+      {
+        "1": 77
+      },
+      {
+        "1": 78
+      },
+      {
+        "1": 79
+      },
+      {
+        "1": 80
+      },
+      {
+        "1": 81
+      },
+      {
+        "1": 82
+      },
+      {
+        "1": 83
+      },
+      {
+        "1": 84
+      },
+      {
+        "1": 85
+      },
+      {
+        "1": 86
+      },
+      {
+        "1": 87
+      },
+      {
+        "1": 88
+      },
+      {
+        "1": 89
+      },
+      {
+        "1": 90
+      },
+      {
+        "1": 91
+      },
+      {
+        "1": 92
+      },
+      {
+        "1": 93
+      },
+      {
+        "1": 94
+      },
+      {
+        "1": 95
+      },
+      {
+        "1": 96
+      },
+      {
+        "1": 97
+      },
+      {
+        "1": 98
+      },
+      {
+        "1": 99
+      },
+      {
+        "1": 100
+      },
+      {
+        "1": 101
+      },
+      {
+        "1": 102
+      },
+      {
+        "1": 103
+      },
+      {
+        "1": 104
+      },
+      {
+        "1": 105
+      },
+      {
+        "1": 106
+      },
+      {
+        "1": 107
+      },
+      {
+        "1": 108
+      },
+      {
+        "1": 109
+      },
+      {
+        "1": 110
+      },
+      {
+        "1": 111
+      },
+      {
+        "1": 112
+      },
+      {
+        "1": 113
+      },
+      {
+        "1": 114
+      },
+      {
+        "1": 115
+      },
+      {
+        "1": 116
+      },
+      {
+        "1": 117
+      },
+      {
+        "1": 118
+      },
+      {
+        "1": 119
+      },
+      {
+        "1": 120
+      },
+      {
+        "1": 121
+      },
+      {
+        "1": 122
+      },
+      {
+        "1": 123
+      },
+      {
+        "1": 124
+      },
+      {
+        "1": 125
+      },
+      {
+        "1": 126
+      },
+      {
+        "1": 127
+      },
+      {
+        "1": 128
+      },
+      {
+        "1": 129
+      },
+      {
+        "1": 130
+      },
+      {
+        "1": 131
+      },
+      {
+        "1": 132
+      },
+      {
+        "1": 133
+      },
+      {
+        "1": 134
+      },
+      {
+        "1": 135
+      }
+    ]
+  },
+  {
+    "sheetName": "Sheet1",
+    "data": [
+      {
+        "1": "1st Round",
+        "2": 5,
+        "3": "108 Văn Hiền",
+        "4": "vs.",
+        "5": "110 Phạm Toàn",
+        "6": {
+          "hyperlink": "https://challonge.com/vi/gq641hog/report_scores"
+        }
+      },
+      {
+        "1": "2nd Round",
+        "2": 8,
+        "3": "32 Minh Võ",
+        "4": "vs.",
+        "5": "46 Bình Bùi",
+        "6": {
+          "hyperlink": "https://challonge.com/vi/gq641hog/report_scores"
+        }
+      },
+      {
+        "1": "2nd Round",
+        "2": 24,
+        "3": "38 Trần Gia Huy",
+        "4": "vs.",
+        "5": "99 Nguyễn Quyết Thắng",
+        "6": {
+          "hyperlink": "https://challonge.com/vi/gq641hog/report_scores"
+        }
+      },
+      {
+        "1": "2nd Round",
+        "2": 33,
+        "3": "105 Minhh Phúc",
+        "4": "vs.",
+        "5": "13 Nguyễn Văn Thắng",
+        "6": {
+          "hyperlink": "https://challonge.com/vi/gq641hog/report_scores"
+        }
+      },
+      {
+        "1": "2nd Round",
+        "2": 35,
+        "3": "16 Hồ Thanh Hiếu",
+        "4": "vs.",
+        "5": "12 Việt Hoàng",
+        "6": {
+          "hyperlink": "https://challonge.com/vi/gq641hog/report_scores"
+        }
+      },
+      {
+        "1": "2nd Round",
+        "2": 36,
+        "3": "49 Nam Lê",
+        "4": "vs.",
+        "5": "17 Dương Văn Công",
+        "6": {
+          "hyperlink": "https://challonge.com/vi/gq641hog/report_scores"
+        }
+      },
+      {
+        "1": "Lower Bracket - 1st Round",
+        "2": 39,
+        "3": "61 Lê Hoàng Nhật Tân",
+        "4": "vs.",
+        "5": "41 Vương Tôn",
+        "6": {
+          "hyperlink": "https://challonge.com/vi/gq641hog/report_scores"
+        }
+      },
+      {
+        "1": "Lower Bracket - 1st Round",
+        "2": 40,
+        "3": "72 Thanh danh",
+        "4": "vs.",
+        "5": "39 Dương Quang Minh",
+        "6": {
+          "hyperlink": "https://challonge.com/vi/gq641hog/report_scores"
+        }
+      },
+      {
+        "1": "Lower Bracket - 1st Round",
+        "2": 42,
+        "3": "70 Trần Đạt",
+        "4": "vs.",
+        "5": "53 Thanh Khiêm",
+        "6": {
+          "hyperlink": "https://challonge.com/vi/gq641hog/report_scores"
+        }
+      },
+      {
+        "1": "Lower Bracket - 2nd Round",
+        "2": 44,
+        "3": "90 Trần Nam Ars",
+        "4": "vs.",
+        "5": "51 Nguyen Thanh Duy",
+        "6": {
+          "hyperlink": "https://challonge.com/vi/gq641hog/report_scores"
+        }
+      },
+      {
+        "1": "Lower Bracket - 2nd Round",
+        "2": 45,
+        "3": "35 Nam Sơn",
+        "4": "vs.",
+        "5": "21 Ng Hữu Hùng",
+        "6": {
+          "hyperlink": "https://challonge.com/vi/gq641hog/report_scores"
+        }
+      },
+      {
+        "1": "Lower Bracket - 2nd Round",
+        "2": 46,
+        "3": "84 THÁI HÒA PHẠM",
+        "4": "vs.",
+        "5": "65 Mẫn Lê",
+        "6": {
+          "hyperlink": "https://challonge.com/vi/gq641hog/report_scores"
+        }
+      },
+      {
+        "1": "Lower Bracket - 2nd Round",
+        "2": 48,
+        "3": "73 Phùng đặng phát tài",
+        "4": "vs.",
+        "5": "62 Lê Hoàng Nhật Tiến",
+        "6": {
+          "hyperlink": "https://challonge.com/vi/gq641hog/report_scores"
+        }
+      },
+      {
+        "1": "Lower Bracket - 2nd Round",
+        "2": 50,
+        "3": "15 Kiều Q.Ngần",
+        "4": "vs.",
+        "5": "40 Nguyễn Hữu Sùng",
+        "6": {
+          "hyperlink": "https://challonge.com/vi/gq641hog/report_scores"
+        }
+      },
+      {
+        "1": "3rd Round",
+        "2": 60,
+        "3": "67 Lương Gia Tiến Tài",
+        "4": "vs.",
+        "5": "116 Nguyễn Thanh Hải",
+        "6": {
+          "hyperlink": "https://challonge.com/vi/gq641hog/report_scores"
+        }
+      },
+      {
+        "1": "3rd Round",
+        "2": 61,
+        "3": "93 Nguyễn Hiếu",
+        "4": "vs.",
+        "5": "96 Thanh Nguyen",
+        "6": {
+          "hyperlink": "https://challonge.com/vi/gq641hog/report_scores"
+        }
+      },
+      {
+        "1": "3rd Round",
+        "2": 62,
+        "3": "69 Ngọc Hậu",
+        "4": "vs.",
+        "5": "98 Bo Hí",
+        "6": {
+          "hyperlink": "https://challonge.com/vi/gq641hog/report_scores"
+        }
+      },
+      {
+        "1": "3rd Round",
+        "2": 63,
+        "3": "79 Duc Anh",
+        "4": "vs.",
+        "5": "68 Nam Bùi",
+        "6": {
+          "hyperlink": "https://challonge.com/vi/gq641hog/report_scores"
+        }
+      },
+      {
+        "1": "3rd Round",
+        "2": 64,
+        "3": "29 Vũ Thành Long",
+        "4": "vs.",
+        "5": "66 Quốc Huy",
+        "6": {
+          "hyperlink": "https://challonge.com/vi/gq641hog/report_scores"
+        }
+      },
+      {
+        "1": "3rd Round",
+        "2": 65,
+        "3": "18 Lê Hiếu",
+        "4": "vs.",
+        "5": "43 Nguyễn Đình Sinh",
+        "6": {
+          "hyperlink": "https://challonge.com/vi/gq641hog/report_scores"
+        }
+      },
+      {
+        "1": "3rd Round",
+        "2": 68,
+        "3": "23 Nguyễn Minh",
+        "4": "vs.",
+        "5": "33 Minne CT",
+        "6": {
+          "hyperlink": "https://challonge.com/vi/gq641hog/report_scores"
+        }
+      },
+      {
+        "1": "3rd Round",
+        "2": 69,
+        "3": "74 Anh Nhat",
+        "4": "vs.",
+        "5": "109 Khánh Vũ",
+        "6": {
+          "hyperlink": "https://challonge.com/vi/gq641hog/report_scores"
+        }
+      },
+      {
+        "1": "3rd Round",
+        "2": 71,
+        "3": "28 Nguyễn Duẩn",
+        "4": "vs.",
+        "5": "71 Châu Bùi",
+        "6": null
+      },
+      {
+        "1": "2nd Round",
+        "2": 8,
+        "3": "32 Minh Võ",
+        "4": "vs.",
+        "5": "46 Bình Bùi",
+        "6": {
+          "hyperlink": "https://challonge.com/vi/gq641hog/report_scores"
+        }
+      },
+      {
+        "1": "2nd Round",
+        "2": 24,
+        "3": "38 Trần Gia Huy",
+        "4": "vs.",
+        "5": "99 Nguyễn Quyết Thắng",
+        "6": {
+          "hyperlink": "https://challonge.com/vi/gq641hog/report_scores"
+        }
+      },
+      {
+        "1": "2nd Round",
+        "2": 33,
+        "3": "105 Minhh Phúc",
+        "4": "vs.",
+        "5": "13 Nguyễn Văn Thắng",
+        "6": {
+          "hyperlink": "https://challonge.com/vi/gq641hog/report_scores"
+        }
+      },
+      {
+        "1": "2nd Round",
+        "2": 35,
+        "3": "16 Hồ Thanh Hiếu",
+        "4": "vs.",
+        "5": "12 Việt Hoàng",
+        "6": {
+          "hyperlink": "https://challonge.com/vi/gq641hog/report_scores"
+        }
+      },
+      {
+        "1": "2nd Round",
+        "2": 36,
+        "3": "49 Nam Lê",
+        "4": "vs.",
+        "5": "17 Dương Văn Công",
+        "6": {
+          "hyperlink": "https://challonge.com/vi/gq641hog/report_scores"
+        }
+      },
+      {
+        "1": "2nd Round",
+        "2": 37,
+        "3": "82 ĐỗV.Quang",
+        "4": "vs.",
+        "5": "108 Văn Hiền",
+        "6": {
+          "hyperlink": "https://challonge.com/vi/gq641hog/report_scores"
+        }
+      },
+      {
+        "1": "Lower Bracket - 1st Round",
+        "2": 38,
+        "3": "111 Đoàn Minh Tuấn",
+        "4": "vs.",
+        "5": "110 Phạm Toàn",
+        "6": {
+          "hyperlink": "https://challonge.com/vi/gq641hog/report_scores"
+        }
+      },
+      {
+        "1": "Lower Bracket - 1st Round",
+        "2": 39,
+        "3": "61 Lê Hoàng Nhật Tân",
+        "4": "vs.",
+        "5": "41 Vương Tôn",
+        "6": {
+          "hyperlink": "https://challonge.com/vi/gq641hog/report_scores"
+        }
+      },
+      {
+        "1": "Lower Bracket - 1st Round",
+        "2": 40,
+        "3": "72 Thanh danh",
+        "4": "vs.",
+        "5": "39 Dương Quang Minh",
+        "6": {
+          "hyperlink": "https://challonge.com/vi/gq641hog/report_scores"
+        }
+      },
+      {
+        "1": "Lower Bracket - 1st Round",
+        "2": 42,
+        "3": "70 Trần Đạt",
+        "4": "vs.",
+        "5": "53 Thanh Khiêm",
+        "6": {
+          "hyperlink": "https://challonge.com/vi/gq641hog/report_scores"
+        }
+      },
+      {
+        "1": "Lower Bracket - 2nd Round",
+        "2": 44,
+        "3": "90 Trần Nam Ars",
+        "4": "vs.",
+        "5": "51 Nguyen Thanh Duy",
+        "6": {
+          "hyperlink": "https://challonge.com/vi/gq641hog/report_scores"
+        }
+      },
+      {
+        "1": "Lower Bracket - 2nd Round",
+        "2": 45,
+        "3": "35 Nam Sơn",
+        "4": "vs.",
+        "5": "21 Ng Hữu Hùng",
+        "6": {
+          "hyperlink": "https://challonge.com/vi/gq641hog/report_scores"
+        }
+      },
+      {
+        "1": "Lower Bracket - 2nd Round",
+        "2": 46,
+        "3": "84 THÁI HÒA PHẠM",
+        "4": "vs.",
+        "5": "65 Mẫn Lê",
+        "6": {
+          "hyperlink": "https://challonge.com/vi/gq641hog/report_scores"
+        }
+      },
+      {
+        "1": "Lower Bracket - 2nd Round",
+        "2": 48,
+        "3": "73 Phùng đặng phát tài",
+        "4": "vs.",
+        "5": "62 Lê Hoàng Nhật Tiến",
+        "6": {
+          "hyperlink": "https://challonge.com/vi/gq641hog/report_scores"
+        }
+      },
+      {
+        "1": "Lower Bracket - 2nd Round",
+        "2": 50,
+        "3": "15 Kiều Q.Ngần",
+        "4": "vs.",
+        "5": "40 Nguyễn Hữu Sùng",
+        "6": {
+          "hyperlink": "https://challonge.com/vi/gq641hog/report_scores"
+        }
+      },
+      {
+        "1": "3rd Round",
+        "2": 60,
+        "3": "67 Lương Gia Tiến Tài",
+        "4": "vs.",
+        "5": "116 Nguyễn Thanh Hải",
+        "6": {
+          "hyperlink": "https://challonge.com/vi/gq641hog/report_scores"
+        }
+      },
+      {
+        "1": "3rd Round",
+        "2": 61,
+        "3": "93 Nguyễn Hiếu",
+        "4": "vs.",
+        "5": "96 Thanh Nguyen",
+        "6": {
+          "hyperlink": "https://challonge.com/vi/gq641hog/report_scores"
+        }
+      },
+      {
+        "1": "3rd Round",
+        "2": 62,
+        "3": "69 Ngọc Hậu",
+        "4": "vs.",
+        "5": "98 Bo Hí",
+        "6": {
+          "hyperlink": "https://challonge.com/vi/gq641hog/report_scores"
+        }
+      },
+      {
+        "1": "3rd Round",
+        "2": 64,
+        "3": "29 Vũ Thành Long",
+        "4": "vs.",
+        "5": "66 Quốc Huy",
+        "6": {
+          "hyperlink": "https://challonge.com/vi/gq641hog/report_scores"
+        }
+      },
+      {
+        "1": "3rd Round",
+        "2": 65,
+        "3": "18 Lê Hiếu",
+        "4": "vs.",
+        "5": "43 Nguyễn Đình Sinh",
+        "6": {
+          "hyperlink": "https://challonge.com/vi/gq641hog/report_scores"
+        }
+      },
+      {
+        "1": "3rd Round",
+        "2": 68,
+        "3": "23 Nguyễn Minh",
+        "4": "vs.",
+        "5": "33 Minne CT",
+        "6": {
+          "hyperlink": "https://challonge.com/vi/gq641hog/report_scores"
+        }
+      },
+      {
+        "1": "3rd Round",
+        "2": 69,
+        "3": "74 Anh Nhat",
+        "4": "vs.",
+        "5": "109 Khánh Vũ",
+        "6": {
+          "hyperlink": "https://challonge.com/vi/gq641hog/report_scores"
+        }
+      },
+      {
+        "1": "3rd Round",
+        "2": 71,
+        "3": "28 Nguyễn Duẩn",
+        "4": "vs.",
+        "5": "71 Châu Bùi",
+        "6": null
+      },
+      {
+        "1": "A",
+        "2": "Lower Bracket - 1st Round",
+        "3": 20,
+        "4": "76 Nguyen The Anh",
+        "5": "vs.",
+        "6": "101 tủm",
+        "7": {
+          "hyperlink": "https://challonge.com/vi/7hs0qk7x/report_scores"
+        }
+      },
+      {
+        "1": "A",
+        "2": "2nd Round",
+        "3": 22,
+        "4": "86 Le Quang Huy",
+        "5": "vs.",
+        "6": "77 Sơn Cọp",
+        "7": {
+          "hyperlink": "https://challonge.com/vi/7hs0qk7x/report_scores"
+        }
+      },
+      {
+        "1": "A",
+        "2": "2nd Round",
+        "3": 26,
+        "4": "52 Dũng Phạm",
+        "5": "vs.",
+        "6": "85 Hồ Xuân Lộc",
+        "7": {
+          "hyperlink": "https://challonge.com/vi/7hs0qk7x/report_scores"
+        }
+      },
+      {
+        "1": "A",
+        "2": "2nd Round",
+        "3": 28,
+        "4": "20 Thanh Tùng",
+        "5": "vs.",
+        "6": "48 TuấnHT",
+        "7": {
+          "hyperlink": "https://challonge.com/vi/7hs0qk7x/report_scores"
+        }
+      },
+      {
+        "1": "A",
+        "2": "2nd Round",
+        "3": 30,
+        "4": "100 Khương đặng",
+        "5": "vs.",
+        "6": "27 thành maxx",
+        "7": {
+          "hyperlink": "https://challonge.com/vi/7hs0qk7x/report_scores"
+        }
+      },
+      {
+        "1": "A",
+        "2": "2nd Round",
+        "3": 32,
+        "4": "55 Đức Nghi Lộc",
+        "5": "vs.",
+        "6": "62 Lê Hoàng Nhật Tiến",
+        "7": {
+          "hyperlink": "https://challonge.com/vi/7hs0qk7x/report_scores"
+        }
+      },
+      {
+        "1": "A",
+        "2": "2nd Round",
+        "3": 36,
+        "4": "81 Phạm Duy Tùng",
+        "5": "vs.",
+        "6": "104 Nguyễn Mạnh Thắng",
+        "7": {
+          "hyperlink": "https://challonge.com/vi/7hs0qk7x/report_scores"
+        }
+      },
+      {
+        "1": "A",
+        "2": "Lower Bracket - 2nd Round",
+        "3": 39,
+        "4": "47 Huỳnh Khắc Duy",
+        "5": "vs.",
+        "6": "92 Nguyễn thiên thắng pastwin",
+        "7": {
+          "hyperlink": "https://challonge.com/vi/7hs0qk7x/report_scores"
+        }
+      },
+      {
+        "1": "A",
+        "2": "Lower Bracket - 2nd Round",
+        "3": 40,
+        "4": "3 Trịnh Sang",
+        "5": "vs.",
+        "6": "58 Nguyen Thai Tuan",
+        "7": {
+          "hyperlink": "https://challonge.com/vi/7hs0qk7x/report_scores"
+        }
+      },
+      {
+        "1": "A",
+        "2": "Lower Bracket - 2nd Round",
+        "3": 45,
+        "4": "1 Cuong Phung",
+        "5": "vs.",
+        "6": "56 Trương Doanh Thiệp",
+        "7": {
+          "hyperlink": "https://challonge.com/vi/7hs0qk7x/report_scores"
+        }
+      },
+      {
+        "1": "A",
+        "2": "Lower Bracket - 2nd Round",
+        "3": 47,
+        "4": "102 Huy Nhat",
+        "5": "vs.",
+        "6": "57 Minh Huy",
+        "7": {
+          "hyperlink": "https://challonge.com/vi/7hs0qk7x/report_scores"
+        }
+      },
+      {
+        "1": "A",
+        "2": "Lower Bracket - 2nd Round",
+        "3": 49,
+        "4": "63 Võ Doãn Duấn",
+        "5": "vs.",
+        "6": "87 Long Le",
+        "7": {
+          "hyperlink": "https://challonge.com/vi/7hs0qk7x/report_scores"
+        }
+      },
+      {
+        "1": "A",
+        "2": "Lower Bracket - 2nd Round",
+        "3": 50,
+        "4": "50 Quảng Cáo Nguyễn Tín",
+        "5": "vs.",
+        "6": "75 Tuấn Nguyễn",
+        "7": {
+          "hyperlink": "https://challonge.com/vi/7hs0qk7x/report_scores"
+        }
+      },
+      {
+        "1": "A",
+        "2": "3rd Round",
+        "3": 67,
+        "4": "19 Phạm Đức Trung",
+        "5": "vs.",
+        "6": "91 Đặng Mạnh",
+        "7": null
+      },
+      {
+        "1": "A",
+        "2": "Lower Bracket - 2nd Round",
+        "3": 43,
+        "4": "32 Minh Võ",
+        "5": "vs.",
+        "6": "88 Lê thành công",
+        "7": {
+          "hyperlink": "https://challonge.com/vi/gq641hog/report_scores"
+        }
+      },
+      {
+        "1": "A",
+        "2": "Lower Bracket - 2nd Round",
+        "3": 49,
+        "4": "97 Trường Trần",
+        "5": "vs.",
+        "6": "105 Minhh Phúc",
+        "7": {
+          "hyperlink": "https://challonge.com/vi/gq641hog/report_scores"
+        }
+      },
+      {
+        "1": "A",
+        "2": "Lower Bracket - 2nd Round",
+        "3": 51,
+        "4": "80 Quang Hà",
+        "5": "vs.",
+        "6": "16 Hồ Thanh Hiếu",
+        "7": {
+          "hyperlink": "https://challonge.com/vi/gq641hog/report_scores"
+        }
+      },
+      {
+        "1": "A",
+        "2": "Lower Bracket - 2nd Round",
+        "3": 52,
+        "4": "95 Nam Bui",
+        "5": "vs.",
+        "6": "49 Nam Lê",
+        "7": {
+          "hyperlink": "https://challonge.com/vi/gq641hog/report_scores"
+        }
+      },
+      {
+        "1": "A",
+        "2": "Lower Bracket - 2nd Round",
+        "3": 53,
+        "4": "2 Tâm DG",
+        "5": "vs.",
+        "6": "108 Văn Hiền",
+        "7": {
+          "hyperlink": "https://challonge.com/vi/gq641hog/report_scores"
+        }
+      },
+      {
+        "1": "A",
+        "2": "Lower Bracket - 2nd Round",
+        "3": 54,
+        "4": "64 Viết Nguyền",
+        "5": "vs.",
+        "6": "110 Phạm Toàn",
+        "7": {
+          "hyperlink": "https://challonge.com/vi/gq641hog/report_scores"
+        }
+      },
+      {
+        "1": "A",
+        "2": "Lower Bracket - 2nd Round",
+        "3": 55,
+        "4": "5 Nguyễn bá hà",
+        "5": "vs.",
+        "6": "61 Lê Hoàng Nhật Tân",
+        "7": {
+          "hyperlink": "https://challonge.com/vi/gq641hog/report_scores"
+        }
+      },
+      {
+        "1": "A",
+        "2": "Lower Bracket - 2nd Round",
+        "3": 56,
+        "4": "114 Nguyễn Dương",
+        "5": "vs.",
+        "6": "39 Dương Quang Minh",
+        "7": {
+          "hyperlink": "https://challonge.com/vi/gq641hog/report_scores"
+        }
+      },
+      {
+        "1": "A",
+        "2": "3rd Round",
+        "3": 66,
+        "4": "38 Trần Gia Huy",
+        "5": "vs.",
+        "6": "107 Jc vũ giáp",
+        "7": {
+          "hyperlink": "https://challonge.com/vi/gq641hog/report_scores"
+        }
+      },
+      {
+        "1": "A",
+        "2": "Lower Bracket - 3rd Round",
+        "3": 76,
+        "4": "67 Lương Gia Tiến Tài",
+        "5": "vs.",
+        "6": "65 Mẫn Lê",
+        "7": {
+          "hyperlink": "https://challonge.com/vi/gq641hog/report_scores"
+        }
+      },
+      {
+        "1": "A",
+        "2": "Lower Bracket - 3rd Round",
+        "3": 77,
+        "4": "96 Thanh Nguyen",
+        "5": "vs.",
+        "6": "99 Nguyễn Quyết Thắng",
+        "7": {
+          "hyperlink": "https://challonge.com/vi/gq641hog/report_scores"
+        }
+      },
+      {
+        "1": "A",
+        "2": "Lower Bracket - 3rd Round",
+        "3": 81,
+        "4": "43 Nguyễn Đình Sinh",
+        "5": "vs.",
+        "6": "90 Trần Nam Ars",
+        "7": {
+          "hyperlink": "https://challonge.com/vi/gq641hog/report_scores"
+        }
+      },
+      {
+        "1": "A",
+        "2": "Lower Bracket - 3rd Round",
+        "3": 88,
+        "4": "12 Việt Hoàng",
+        "5": "vs.",
+        "6": "62 Lê Hoàng Nhật Tiến",
+        "7": {
+          "hyperlink": "https://challonge.com/vi/gq641hog/report_scores"
+        }
+      },
+      {
+        "1": "A",
+        "2": "Lower Bracket - 3rd Round",
+        "3": 90,
+        "4": "26 Nguyễn Tường",
+        "5": "vs.",
+        "6": "40 Nguyễn Hữu Sùng",
+        "7": {
+          "hyperlink": "https://challonge.com/vi/gq641hog/report_scores"
+        }
+      },
+      {
+        "1": "A",
+        "2": "4th Round",
+        "3": 102,
+        "4": "7 Nguyễn Hoàng Đại",
+        "5": "vs.",
+        "6": "54 Lê Điệp",
+        "7": {
+          "hyperlink": "https://challonge.com/vi/gq641hog/report_scores"
+        }
+      },
+      {
+        "1": "A",
+        "2": "4th Round",
+        "3": 104,
+        "4": "103 Phụtùng ô tô PhúTrang",
+        "5": "vs.",
+        "6": "68 Nam Bùi",
+        "7": {
+          "hyperlink": "https://challonge.com/vi/gq641hog/report_scores"
+        }
+      },
+      {
+        "1": "A",
+        "2": "4th Round",
+        "3": 106,
+        "4": "82 ĐỗV.Quang",
+        "5": "vs.",
+        "6": "113 Thân Quốc Hổ",
+        "7": null
+      },
+      {
+        "1": "A",
+        "2": "Lower Bracket - 2nd Round",
+        "3": 45,
+        "4": "1 Cuong Phung",
+        "5": "vs.",
+        "6": "56 Trương Doanh Thiệp",
+        "7": {
+          "hyperlink": "https://challonge.com/vi/7hs0qk7x/report_scores"
+        }
+      },
+      {
+        "1": "A",
+        "2": "Lower Bracket - 2nd Round",
+        "3": 48,
+        "4": "55 Đức Nghi Lộc",
+        "5": "vs.",
+        "6": "8 Nguyễn Hoàng Thái",
+        "7": {
+          "hyperlink": "https://challonge.com/vi/7hs0qk7x/report_scores"
+        }
+      },
+      {
+        "1": "A",
+        "2": "Lower Bracket - 2nd Round",
+        "3": 50,
+        "4": "50 Quảng Cáo Nguyễn Tín",
+        "5": "vs.",
+        "6": "75 Tuấn Nguyễn",
+        "7": {
+          "hyperlink": "https://challonge.com/vi/7hs0qk7x/report_scores"
+        }
+      },
+      {
+        "1": "A",
+        "2": "Lower Bracket - 2nd Round",
+        "3": 52,
+        "4": "104 Nguyễn Mạnh Thắng",
+        "5": "vs.",
+        "6": "112 Ngọc Sơn",
+        "7": {
+          "hyperlink": "https://challonge.com/vi/7hs0qk7x/report_scores"
+        }
+      },
+      {
+        "1": "A",
+        "2": "Lower Bracket - 3rd Round",
+        "3": 54,
+        "4": "3 Trịnh Sang",
+        "5": "vs.",
+        "6": "47 Huỳnh Khắc Duy",
+        "7": {
+          "hyperlink": "https://challonge.com/vi/7hs0qk7x/report_scores"
+        }
+      },
+      {
+        "1": "A",
+        "2": "Lower Bracket - 3rd Round",
+        "3": 56,
+        "4": "78 Che dat",
+        "5": "vs.",
+        "6": "101 tủm",
+        "7": {
+          "hyperlink": "https://challonge.com/vi/7hs0qk7x/report_scores"
+        }
+      },
+      {
+        "1": "A",
+        "2": "3rd Round",
+        "3": 66,
+        "4": "14 An Đức Đào",
+        "5": "vs.",
+        "6": "62 Lê Hoàng Nhật Tiến",
+        "7": {
+          "hyperlink": "https://challonge.com/vi/7hs0qk7x/report_scores"
+        }
+      },
+      {
+        "1": "A",
+        "2": "Lower Bracket - 4th Round",
+        "3": 73,
+        "4": "27 thành maxx",
+        "5": "vs.",
+        "6": "86 Le Quang Huy",
+        "7": {
+          "hyperlink": "https://challonge.com/vi/7hs0qk7x/report_scores"
+        }
+      },
+      {
+        "1": "A",
+        "2": "Lower Bracket - 4th Round",
+        "3": 75,
+        "4": "91 Đặng Mạnh",
+        "5": "vs.",
+        "6": "30 Vb trung",
+        "7": {
+          "hyperlink": "https://challonge.com/vi/7hs0qk7x/report_scores"
+        }
+      },
+      {
+        "1": "A",
+        "2": "4th Round",
+        "3": 82,
+        "4": "85 Hồ Xuân Lộc",
+        "5": "vs.",
+        "6": "9 Doan Tấn",
+        "7": {
+          "hyperlink": "https://challonge.com/vi/7hs0qk7x/report_scores"
+        }
+      },
+      {
+        "1": "A",
+        "2": "4th Round",
+        "3": 84,
+        "4": "19 Phạm Đức Trung",
+        "5": "vs.",
+        "6": "81 Phạm Duy Tùng",
+        "7": null
+      },
+      {
+        "1": null,
+        "2": "Lower Bracket - 2nd Round",
+        "3": 48,
+        "4": "55 Đức Nghi Lộc",
+        "5": "vs.",
+        "6": "8 Nguyễn Hoàng Thái",
+        "7": {
+          "hyperlink": "https://challonge.com/vi/7hs0qk7x/report_scores"
+        }
+      },
+      {
+        "1": null,
+        "2": "Lower Bracket - 2nd Round",
+        "3": 50,
+        "4": "50 Quảng Cáo Nguyễn Tín",
+        "5": "vs.",
+        "6": "75 Tuấn Nguyễn",
+        "7": {
+          "hyperlink": "https://challonge.com/vi/7hs0qk7x/report_scores"
+        }
+      },
+      {
+        "1": null,
+        "2": "Lower Bracket - 3rd Round",
+        "3": 57,
+        "4": "100 Khương đặng",
+        "5": "vs.",
+        "6": "56 Trương Doanh Thiệp",
+        "7": {
+          "hyperlink": "https://challonge.com/vi/7hs0qk7x/report_scores"
+        }
+      },
+      {
+        "1": null,
+        "2": "Lower Bracket - 3rd Round",
+        "3": 60,
+        "4": "104 Nguyễn Mạnh Thắng",
+        "5": "vs.",
+        "6": "36 Nhật Nam",
+        "7": {
+          "hyperlink": "https://challonge.com/vi/7hs0qk7x/report_scores"
+        }
+      },
+      {
+        "1": null,
+        "2": "Lower Bracket - 4th Round",
+        "3": 74,
+        "4": "62 Lê Hoàng Nhật Tiến",
+        "5": "vs.",
+        "6": "3 Trịnh Sang",
+        "7": {
+          "hyperlink": "https://challonge.com/vi/7hs0qk7x/report_scores"
+        }
+      },
+      {
+        "1": null,
+        "2": "Lower Bracket - 4th Round",
+        "3": 75,
+        "4": "91 Đặng Mạnh",
+        "5": "vs.",
+        "6": "30 Vb trung",
+        "7": {
+          "hyperlink": "https://challonge.com/vi/7hs0qk7x/report_scores"
+        }
+      },
+      {
+        "1": null,
+        "2": "Lower Bracket - 4th Round",
+        "3": 76,
+        "4": "24 Vinh Le",
+        "5": "vs.",
+        "6": "78 Che dat",
+        "7": {
+          "hyperlink": "https://challonge.com/vi/7hs0qk7x/report_scores"
+        }
+      },
+      {
+        "1": null,
+        "2": "4th Round",
+        "3": 82,
+        "4": "85 Hồ Xuân Lộc",
+        "5": "vs.",
+        "6": "9 Doan Tấn",
+        "7": {
+          "hyperlink": "https://challonge.com/vi/7hs0qk7x/report_scores"
+        }
+      },
+      {
+        "1": null,
+        "2": "4th Round",
+        "3": 83,
+        "4": "6 Viet Anh",
+        "5": "vs.",
+        "6": "14 An Đức Đào",
+        "7": null
+      },
+      {
+        "1": "A",
+        "2": "Lower Bracket - 2nd Round",
+        "3": 51,
+        "4": "80 Quang Hà",
+        "5": "vs.",
+        "6": "16 Hồ Thanh Hiếu",
+        "7": {
+          "hyperlink": "https://challonge.com/vi/gq641hog/report_scores"
+        }
+      },
+      {
+        "1": "A",
+        "2": "Lower Bracket - 3rd Round",
+        "3": 75,
+        "4": "46 Bình Bùi",
+        "5": "vs.",
+        "6": "39 Dương Quang Minh",
+        "7": {
+          "hyperlink": "https://challonge.com/vi/gq641hog/report_scores"
+        }
+      },
+      {
+        "1": "A",
+        "2": "Lower Bracket - 3rd Round",
+        "3": 77,
+        "4": "96 Thanh Nguyen",
+        "5": "vs.",
+        "6": "99 Nguyễn Quyết Thắng",
+        "7": {
+          "hyperlink": "https://challonge.com/vi/gq641hog/report_scores"
+        }
+      },
+      {
+        "1": "A",
+        "2": "Lower Bracket - 3rd Round",
+        "3": 80,
+        "4": "29 Vũ Thành Long",
+        "5": "vs.",
+        "6": "88 Lê thành công",
+        "7": {
+          "hyperlink": "https://challonge.com/vi/gq641hog/report_scores"
+        }
+      },
+      {
+        "1": "A",
+        "2": "Lower Bracket - 3rd Round",
+        "3": 81,
+        "4": "43 Nguyễn Đình Sinh",
+        "5": "vs.",
+        "6": "90 Trần Nam Ars",
+        "7": {
+          "hyperlink": "https://challonge.com/vi/gq641hog/report_scores"
+        }
+      },
+      {
+        "1": "A",
+        "2": "Lower Bracket - 3rd Round",
+        "3": 82,
+        "4": "38 Trần Gia Huy",
+        "5": "vs.",
+        "6": "64 Viết Nguyền",
+        "7": {
+          "hyperlink": "https://challonge.com/vi/gq641hog/report_scores"
+        }
+      },
+      {
+        "1": "A",
+        "2": "Lower Bracket - 3rd Round",
+        "3": 85,
+        "4": "109 Khánh Vũ",
+        "5": "vs.",
+        "6": "61 Lê Hoàng Nhật Tân",
+        "7": {
+          "hyperlink": "https://challonge.com/vi/gq641hog/report_scores"
+        }
+      },
+      {
+        "1": "A",
+        "2": "Lower Bracket - 3rd Round",
+        "3": 86,
+        "4": "13 Nguyễn Văn Thắng",
+        "5": "vs.",
+        "6": "49 Nam Lê",
+        "7": {
+          "hyperlink": "https://challonge.com/vi/gq641hog/report_scores"
+        }
+      },
+      {
+        "1": "A",
+        "2": "Lower Bracket - 3rd Round",
+        "3": 88,
+        "4": "12 Việt Hoàng",
+        "5": "vs.",
+        "6": "62 Lê Hoàng Nhật Tiến",
+        "7": {
+          "hyperlink": "https://challonge.com/vi/gq641hog/report_scores"
+        }
+      },
+      {
+        "1": "A",
+        "2": "Lower Bracket - 3rd Round",
+        "3": 89,
+        "4": "10 Lưu Anh Đức",
+        "5": "vs.",
+        "6": "105 Minhh Phúc",
+        "7": {
+          "hyperlink": "https://challonge.com/vi/gq641hog/report_scores"
+        }
+      },
+      {
+        "1": "A",
+        "2": "Lower Bracket - 4th Round",
+        "3": 95,
+        "4": "11 Ân Nguyễn",
+        "5": "vs.",
+        "6": "28 Nguyễn Duẩn",
+        "7": {
+          "hyperlink": "https://challonge.com/vi/gq641hog/report_scores"
+        }
+      },
+      {
+        "1": "A",
+        "2": "4th Round",
+        "3": 100,
+        "4": "18 Lê Hiếu",
+        "5": "vs.",
+        "6": "107 Jc vũ giáp",
+        "7": {
+          "hyperlink": "https://challonge.com/vi/gq641hog/report_scores"
+        }
+      },
+      {
+        "1": "A",
+        "2": "4th Round",
+        "3": 102,
+        "4": "7 Nguyễn Hoàng Đại",
+        "5": "vs.",
+        "6": "54 Lê Điệp",
+        "7": {
+          "hyperlink": "https://challonge.com/vi/gq641hog/report_scores"
+        }
+      },
+      {
+        "1": "A",
+        "2": "4th Round",
+        "3": 104,
+        "4": "103 Phụtùng ô tô PhúTrang",
+        "5": "vs.",
+        "6": "68 Nam Bùi",
+        "7": {
+          "hyperlink": "https://challonge.com/vi/gq641hog/report_scores"
+        }
+      },
+      {
+        "1": "A",
+        "2": "Lower Bracket - 5th Round",
+        "3": 107,
+        "4": "116 Nguyễn Thanh Hải",
+        "5": "vs.",
+        "6": "26 Nguyễn Tường",
+        "7": {
+          "hyperlink": "https://challonge.com/vi/gq641hog/report_scores"
+        }
+      },
+      {
+        "1": "A",
+        "2": "5th Round",
+        "3": 122,
+        "4": "82 ĐỗV.Quang",
+        "5": "vs.",
+        "6": "74 Anh Nhat",
+        "7": null
+      },
+      {
+        "1": "A",
+        "2": "Lower Bracket - 3rd Round",
+        "3": 77,
+        "4": "96 Thanh Nguyen",
+        "5": "vs.",
+        "6": "99 Nguyễn Quyết Thắng",
+        "7": {
+          "hyperlink": "https://challonge.com/vi/gq641hog/report_scores"
+        }
+      },
+      {
+        "1": "A",
+        "2": "Lower Bracket - 3rd Round",
+        "3": 80,
+        "4": "29 Vũ Thành Long",
+        "5": "vs.",
+        "6": "88 Lê thành công",
+        "7": {
+          "hyperlink": "https://challonge.com/vi/gq641hog/report_scores"
+        }
+      },
+      {
+        "1": "A",
+        "2": "Lower Bracket - 3rd Round",
+        "3": 81,
+        "4": "43 Nguyễn Đình Sinh",
+        "5": "vs.",
+        "6": "90 Trần Nam Ars",
+        "7": {
+          "hyperlink": "https://challonge.com/vi/gq641hog/report_scores"
+        }
+      },
+      {
+        "1": "A",
+        "2": "Lower Bracket - 3rd Round",
+        "3": 84,
+        "4": "33 Minne CT",
+        "5": "vs.",
+        "6": "80 Quang Hà",
+        "7": {
+          "hyperlink": "https://challonge.com/vi/gq641hog/report_scores"
+        }
+      },
+      {
+        "1": "A",
+        "2": "Lower Bracket - 3rd Round",
+        "3": 86,
+        "4": "13 Nguyễn Văn Thắng",
+        "5": "vs.",
+        "6": "49 Nam Lê",
+        "7": {
+          "hyperlink": "https://challonge.com/vi/gq641hog/report_scores"
+        }
+      },
+      {
+        "1": "A",
+        "2": "Lower Bracket - 3rd Round",
+        "3": 88,
+        "4": "12 Việt Hoàng",
+        "5": "vs.",
+        "6": "62 Lê Hoàng Nhật Tiến",
+        "7": {
+          "hyperlink": "https://challonge.com/vi/gq641hog/report_scores"
+        }
+      },
+      {
+        "1": "A",
+        "2": "Lower Bracket - 3rd Round",
+        "3": 89,
+        "4": "10 Lưu Anh Đức",
+        "5": "vs.",
+        "6": "105 Minhh Phúc",
+        "7": {
+          "hyperlink": "https://challonge.com/vi/gq641hog/report_scores"
+        }
+      },
+      {
+        "1": "A",
+        "2": "Lower Bracket - 4th Round",
+        "3": 95,
+        "4": "11 Ân Nguyễn",
+        "5": "vs.",
+        "6": "28 Nguyễn Duẩn",
+        "7": {
+          "hyperlink": "https://challonge.com/vi/gq641hog/report_scores"
+        }
+      },
+      {
+        "1": "A",
+        "2": "Lower Bracket - 5th Round",
+        "3": 107,
+        "4": "116 Nguyễn Thanh Hải",
+        "5": "vs.",
+        "6": "26 Nguyễn Tường",
+        "7": {
+          "hyperlink": "https://challonge.com/vi/gq641hog/report_scores"
+        }
+      },
+      {
+        "1": "A",
+        "2": "5th Round",
+        "3": 119,
+        "4": "7 Nguyễn Hoàng Đại",
+        "5": "vs.",
+        "6": "93 Nguyễn Hiếu",
+        "7": {
+          "hyperlink": "https://challonge.com/vi/gq641hog/report_scores"
+        }
+      },
+      {
+        "1": "A",
+        "2": "5th Round",
+        "3": 120,
+        "4": "98 Bo Hí",
+        "5": "vs.",
+        "6": "103 Phụtùng ô tô PhúTrang",
+        "7": {
+          "hyperlink": "https://challonge.com/vi/gq641hog/report_scores"
+        }
+      },
+      {
+        "1": "A",
+        "2": "5th Round",
+        "3": 121,
+        "4": "17 Dương Văn Công",
+        "5": "vs.",
+        "6": "18 Lê Hiếu",
+        "7": {
+          "hyperlink": "https://challonge.com/vi/gq641hog/report_scores"
+        }
+      },
+      {
+        "1": "A",
+        "2": "5th Round",
+        "3": 122,
+        "4": "82 ĐỗV.Quang",
+        "5": "vs.",
+        "6": "74 Anh Nhat",
+        "7": null
+      },
+      {
+        "1": "A",
+        "2": "Lower Bracket - 3rd Round",
+        "3": 57,
+        "4": "100 Khương đặng",
+        "5": "vs.",
+        "6": "56 Trương Doanh Thiệp",
+        "7": {
+          "hyperlink": "https://challonge.com/vi/7hs0qk7x/report_scores"
+        }
+      },
+      {
+        "1": "A",
+        "2": "Lower Bracket - 3rd Round",
+        "3": 58,
+        "4": "55 Đức Nghi Lộc",
+        "5": "vs.",
+        "6": "57 Minh Huy",
+        "7": {
+          "hyperlink": "https://challonge.com/vi/7hs0qk7x/report_scores"
+        }
+      },
+      {
+        "1": "A",
+        "2": "Lower Bracket - 3rd Round",
+        "3": 59,
+        "4": "50 Quảng Cáo Nguyễn Tín",
+        "5": "vs.",
+        "6": "87 Long Le",
+        "7": {
+          "hyperlink": "https://challonge.com/vi/7hs0qk7x/report_scores"
+        }
+      },
+      {
+        "1": "A",
+        "2": "Lower Bracket - 3rd Round",
+        "3": 60,
+        "4": "104 Nguyễn Mạnh Thắng",
+        "5": "vs.",
+        "6": "36 Nhật Nam",
+        "7": {
+          "hyperlink": "https://challonge.com/vi/7hs0qk7x/report_scores"
+        }
+      },
+      {
+        "1": "A",
+        "2": "Lower Bracket - 4th Round",
+        "3": 74,
+        "4": "62 Lê Hoàng Nhật Tiến",
+        "5": "vs.",
+        "6": "3 Trịnh Sang",
+        "7": {
+          "hyperlink": "https://challonge.com/vi/7hs0qk7x/report_scores"
+        }
+      },
+      {
+        "1": "A",
+        "2": "Lower Bracket - 4th Round",
+        "3": 75,
+        "4": "91 Đặng Mạnh",
+        "5": "vs.",
+        "6": "30 Vb trung",
+        "7": {
+          "hyperlink": "https://challonge.com/vi/7hs0qk7x/report_scores"
+        }
+      },
+      {
+        "1": "A",
+        "2": "Lower Bracket - 4th Round",
+        "3": 76,
+        "4": "24 Vinh Le",
+        "5": "vs.",
+        "6": "78 Che dat",
+        "7": {
+          "hyperlink": "https://challonge.com/vi/7hs0qk7x/report_scores"
+        }
+      },
+      {
+        "1": "A",
+        "2": "4th Round",
+        "3": 82,
+        "4": "85 Hồ Xuân Lộc",
+        "5": "vs.",
+        "6": "9 Doan Tấn",
+        "7": {
+          "hyperlink": "https://challonge.com/vi/7hs0qk7x/report_scores"
+        }
+      },
+      {
+        "1": "A",
+        "2": "5th Round",
+        "3": 92,
+        "4": "6 Viet Anh",
+        "5": "vs.",
+        "6": "81 Phạm Duy Tùng",
+        "7": null
+      },
+      {
+        "1": "A",
+        "2": "Lower Bracket - 4th Round",
+        "3": 70,
+        "4": "42 Minh Chiến",
+        "5": "vs.",
+        "6": "55 Đức Nghi Lộc",
+        "7": {
+          "hyperlink": "https://challonge.com/vi/7hs0qk7x/report_scores"
+        }
+      },
+      {
+        "1": "A",
+        "2": "Lower Bracket - 4th Round",
+        "3": 72,
+        "4": "20 Thanh Tùng",
+        "5": "vs.",
+        "6": "36 Nhật Nam",
+        "7": {
+          "hyperlink": "https://challonge.com/vi/7hs0qk7x/report_scores"
+        }
+      },
+      {
+        "1": "A",
+        "2": "Lower Bracket - 5th Round",
+        "3": 79,
+        "4": "62 Lê Hoàng Nhật Tiến",
+        "5": "vs.",
+        "6": "27 thành maxx",
+        "7": {
+          "hyperlink": "https://challonge.com/vi/7hs0qk7x/report_scores"
+        }
+      },
+      {
+        "1": "A",
+        "2": "Lower Bracket - 5th Round",
+        "3": 80,
+        "4": "24 Vinh Le",
+        "5": "vs.",
+        "6": "91 Đặng Mạnh",
+        "7": {
+          "hyperlink": "https://challonge.com/vi/7hs0qk7x/report_scores"
+        }
+      },
+      {
+        "1": "A",
+        "2": "4th Round",
+        "3": 82,
+        "4": "85 Hồ Xuân Lộc",
+        "5": "vs.",
+        "6": "9 Doan Tấn",
+        "7": null
+      },
+      {
+        "1": "A",
+        "2": "Lower Bracket - 4th Round",
+        "3": 91,
+        "4": "99 Nguyễn Quyết Thắng",
+        "5": "vs.",
+        "6": "65 Mẫn Lê",
+        "7": {
+          "hyperlink": "https://challonge.com/vi/gq641hog/report_scores"
+        }
+      },
+      {
+        "1": "A",
+        "2": "Lower Bracket - 4th Round",
+        "3": 92,
+        "4": "38 Trần Gia Huy",
+        "5": "vs.",
+        "6": "43 Nguyễn Đình Sinh",
+        "7": {
+          "hyperlink": "https://challonge.com/vi/gq641hog/report_scores"
+        }
+      },
+      {
+        "1": "A",
+        "2": "Lower Bracket - 4th Round",
+        "3": 93,
+        "4": "109 Khánh Vũ",
+        "5": "vs.",
+        "6": "80 Quang Hà",
+        "7": {
+          "hyperlink": "https://challonge.com/vi/gq641hog/report_scores"
+        }
+      },
+      {
+        "1": "A",
+        "2": "Lower Bracket - 4th Round",
+        "3": 96,
+        "4": "53 Thanh Khiêm",
+        "5": "vs.",
+        "6": "12 Việt Hoàng",
+        "7": {
+          "hyperlink": "https://challonge.com/vi/gq641hog/report_scores"
+        }
+      },
+      {
+        "1": "A",
+        "2": "Lower Bracket - 4th Round",
+        "3": 97,
+        "4": "29 Vũ Thành Long",
+        "5": "vs.",
+        "6": "10 Lưu Anh Đức",
+        "7": {
+          "hyperlink": "https://challonge.com/vi/gq641hog/report_scores"
+        }
+      },
+      {
+        "1": "A",
+        "2": "Lower Bracket - 5th Round",
+        "3": 109,
+        "4": "23 Nguyễn Minh",
+        "5": "vs.",
+        "6": "39 Dương Quang Minh",
+        "7": {
+          "hyperlink": "https://challonge.com/vi/gq641hog/report_scores"
+        }
+      },
+      {
+        "1": "A",
+        "2": "5th Round",
+        "3": 121,
+        "4": "17 Dương Văn Công",
+        "5": "vs.",
+        "6": "18 Lê Hiếu",
+        "7": {
+          "hyperlink": "https://challonge.com/vi/gq641hog/report_scores"
+        }
+      },
+      {
+        "1": "A",
+        "2": "6th Round",
+        "3": 129,
+        "4": "93 Nguyễn Hiếu",
+        "5": "vs.",
+        "6": "98 Bo Hí",
+        "7": null
+      }
+    ]
+  },
+  {
+    "sheetName": "Sheet3",
+    "data": []
+  }
+]
